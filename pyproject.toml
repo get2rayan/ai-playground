@@ -12,4 +12,5 @@ dependencies = [
     "nest-asyncio>=1.6.0",
     "openai>=3.14.1",
     "openai-agents>=0.22.3",
+    "typesafe-sdk>=0.7.1",
 ]
