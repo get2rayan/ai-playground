@@ -9,11 +9,11 @@ from langgraph.graph import END, START, MessagesState, StateGraph
 def build_chat_workflow():
 	"""Build a LangGraph workflow for a conversational assistant."""
 	model = ChatOpenAI(
-		model=os.getenv("OPENAI_MODEL", "gpt-4o-mini"),
+		model=os.getenv("OPENAI_MODEL", "gpt-5-mini"),
 		temperature=0.7,
 	)
 
-	def call_model(state: MessagesState) -> dict[str, list[BaseMessage]]:
+	def call_model(state: MessagesState):
 		response = model.invoke(
 			[
 				# {
@@ -24,6 +24,7 @@ def build_chat_workflow():
 				*state["messages"],
 			]
 		)
+		print ("\nResponse:", response)
 		return {"messages": [response]}
 
 	workflow = StateGraph(MessagesState)
@@ -60,8 +61,8 @@ def run_chat() -> None:
 		)
 
 		history = result["messages"]
-		print ("History:", history)
-		print(f"Assistant: {history[-1].content}")
+		print ("\nHistory:", history)
+		print("\nAssistant:", history[-1].content)
 
 
 if __name__ == "__main__":

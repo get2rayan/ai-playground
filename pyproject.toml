@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dotenv>=0.9.9",
+    "huggingface-hub>=2.4.0",
     "langchain>=1.4.0",
     "langchain-openai>=1.6.2",
     "langgraph>=1.2.11",
@@ -13,4 +14,18 @@ dependencies = [
     "openai>=3.14.1",
     "openai-agents>=0.22.3",
     "typesafe-sdk>=0.7.1",
+]
+
+[dependency-groups]
+dev = [
+    "accelerate>=1.16.0",
+    "datasets>=5.2.0",
+    "evaluate>=0.4.6",
+    "ipykernel>=7.3.0",
+    "kagglehub>=1.0.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "torch>=2.15.0",
+    "transformers>=5.24.0",
 ]

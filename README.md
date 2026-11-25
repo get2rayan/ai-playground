@@ -62,6 +62,11 @@ uv venv
 uv sync
 ```
 
+The intent-classification notebook uses the ML and Jupyter packages in the
+`dev` dependency group. `uv sync` installs this group by default. In VS Code,
+select the project's `.venv` as the notebook kernel before running
+`07_intent_classification_transformer.ipynb`.
+
 ### Running Examples
 
 #### Basic Test

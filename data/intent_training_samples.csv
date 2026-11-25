@@ -1,0 +1,301 @@
+intent,prompt
+culinary_assistance,Can you explain how to replace buttermilk in a pancake recipe?
+out_of_scope,What should I know about understanding how mortgage interest works?
+recipe_lookup,Please recommend something for a Mexican meal for a family gathering.
+recipe_lookup,What could I cook for a mild curry that uses cauliflower?
+recipe_lookup,Please recommend something for an easy breakfast I can prepare before work.
+out_of_scope,Can you help me with finding a good beginner workout plan?
+culinary_assistance,I'm cooking tonight; what's the best way to tell whether my caramel is ready without a thermometer?
+culinary_assistance,How can I tell when salmon is safely cooked?
+recipe_lookup,"What could I cook for something I can make with rice, eggs, and scallions?"
+out_of_scope,Can you help me with getting a refund for an online order?
+recipe_lookup,What could I cook for a hearty soup for a cold winter evening?
+out_of_scope,Can you help me with getting started with watercolor painting?
+culinary_assistance,Do you have any practical tips to make my chicken curry less spicy?
+out_of_scope,Can you help me with the weather forecast for this weekend?
+out_of_scope,Can you help me with the opening hours of the downtown library?
+out_of_scope,I have a question about getting started with watercolor painting.
+out_of_scope,Could you give me some information about understanding the difference between a debit card and a credit card?
+recipe_lookup,I'm looking for a new recipe for a Mexican meal for a family gathering.
+culinary_assistance,Do you have any practical tips to store leftover cooked rice safely?
+culinary_assistance,Do you have any practical tips to know whether yeast is still active?
+out_of_scope,Can you help me with learning the rules of chess?
+recipe_lookup,I'd like to make a quick vegetarian dinner with chickpeas and spinach. What recipe do you recommend?
+out_of_scope,What should I know about the weather forecast for this weekend?
+out_of_scope,Could you give me some information about finding a good beginner workout plan?
+culinary_assistance,Please help me adjust the baking time for cupcakes in a larger pan.
+culinary_assistance,Do you have any practical tips to thicken a stew that came out too watery?
+out_of_scope,Could you give me some information about learning the rules of chess?
+out_of_scope,Could you give me some information about the opening hours of the downtown library?
+recipe_lookup,I'd like to make a mild curry that uses cauliflower. What recipe do you recommend?
+recipe_lookup,Can you suggest a recipe for a classic chicken tikka masala recipe?
+out_of_scope,Please explain finding a dog-friendly hotel near the airport to me.
+culinary_assistance,Do you have any practical tips to tell when salmon is safely cooked?
+culinary_assistance,How can I tell whether my caramel is ready without a thermometer?
+recipe_lookup,What could I cook for an easy breakfast I can prepare before work?
+out_of_scope,Could you give me some information about planning a three-day trip to Montreal?
+culinary_assistance,Can you explain how to keep pasta from sticking together?
+out_of_scope,I have a question about finding a good beginner workout plan.
+culinary_assistance,I'm cooking tonight; what's the best way to replace buttermilk in a pancake recipe?
+culinary_assistance,How can I keep roasted vegetables from turning soggy?
+recipe_lookup,I'm looking for a new recipe for a pasta dish that uses mushrooms and cream.
+out_of_scope,Please explain finding a good beginner workout plan to me.
+out_of_scope,I have a question about updating the address on my driver's license.
+out_of_scope,Could you give me some information about calculating the percentage increase between two numbers?
+recipe_lookup,I'm looking for a new recipe for a celebratory chocolate dessert.
+out_of_scope,Please explain setting up two-factor authentication on my account to me.
+culinary_assistance,How can I make my chicken curry less spicy?
+out_of_scope,Could you give me some information about writing a professional email to my manager?
+culinary_assistance,Please help me store leftover cooked rice safely.
+out_of_scope,Please explain the opening hours of the downtown library to me.
+recipe_lookup,Can you suggest a recipe for a refreshing summer salad with tomatoes and cucumber?
+recipe_lookup,I'd like to make a classic chicken tikka masala recipe. What recipe do you recommend?
+out_of_scope,What should I know about setting up two-factor authentication on my account?
+recipe_lookup,I'd like to make a simple salmon dinner with vegetables. What recipe do you recommend?
+out_of_scope,Please explain planning a three-day trip to Montreal to me.
+culinary_assistance,Do you have any practical tips to scale a soup recipe from four servings to ten?
+culinary_assistance,Please help me keep cut apples from browning.
+culinary_assistance,Do you have any practical tips to fix a sauce that has split?
+culinary_assistance,How can I replace buttermilk in a pancake recipe?
+out_of_scope,What should I know about finding a dog-friendly hotel near the airport?
+culinary_assistance,Please help me adapt this recipe for two people instead of six.
+out_of_scope,I have a question about planning a three-day trip to Montreal.
+out_of_scope,Please explain updating the address on my driver's license to me.
+recipe_lookup,I'd like to make a pasta dish that uses mushrooms and cream. What recipe do you recommend?
+out_of_scope,Could you give me some information about the latest results in the basketball playoffs?
+out_of_scope,Please explain getting a refund for an online order to me.
+out_of_scope,I have a question about choosing a laptop for university.
+out_of_scope,Could you give me some information about understanding how mortgage interest works?
+culinary_assistance,I'm cooking tonight; what's the best way to thicken a stew that came out too watery?
+recipe_lookup,Can you suggest a recipe for a make-ahead meal for weekday lunches?
+out_of_scope,I have a question about the opening hours of the downtown library.
+recipe_lookup,Please recommend something for a vegan lunch using lentils and tomatoes.
+culinary_assistance,Can you explain how to thicken a stew that came out too watery?
+out_of_scope,Can you help me with choosing a gift for a coworker's retirement?
+out_of_scope,Could you give me some information about choosing a gift for a coworker's retirement?
+out_of_scope,I have a question about getting a refund for an online order.
+recipe_lookup,What could I cook for a classic chicken tikka masala recipe?
+culinary_assistance,Please help me thicken a stew that came out too watery.
+recipe_lookup,What could I cook for a traditional French beef stew?
+out_of_scope,Can you help me with calculating the percentage increase between two numbers?
+culinary_assistance,Can you explain how to store leftover cooked rice safely?
+out_of_scope,Could you give me some information about setting up two-factor authentication on my account?
+culinary_assistance,Can you explain how to fix a sauce that has split?
+culinary_assistance,I'm cooking tonight; what's the best way to store leftover cooked rice safely?
+out_of_scope,I have a question about the weather forecast for this weekend.
+culinary_assistance,Do you have any practical tips to substitute for eggs in a cake recipe?
+out_of_scope,Can you help me with writing a Python function to sort a list?
+recipe_lookup,I'd like to make an easy breakfast I can prepare before work. What recipe do you recommend?
+out_of_scope,Please explain improving my focus while studying to me.
+out_of_scope,What should I know about getting started with watercolor painting?
+recipe_lookup,I'd like to make a make-ahead meal for weekday lunches. What recipe do you recommend?
+culinary_assistance,I'm cooking tonight; what's the best way to convert an oven temperature from Fahrenheit to Celsius?
+out_of_scope,I have a question about setting up two-factor authentication on my account.
+out_of_scope,What should I know about the opening hours of the downtown library?
+recipe_lookup,Can you suggest a recipe for a mild curry that uses cauliflower?
+recipe_lookup,I'd like to make a low-cost dinner for four people. What recipe do you recommend?
+culinary_assistance,Do you have any practical tips to keep cut apples from browning?
+recipe_lookup,I'd like to make an appetizer for a game-day party. What recipe do you recommend?
+out_of_scope,Could you give me some information about updating the address on my driver's license?
+recipe_lookup,I'm looking for a new recipe for a mild curry that uses cauliflower.
+culinary_assistance,Can you explain how to reduce the saltiness of my soup?
+recipe_lookup,I'd like to make a traditional French beef stew. What recipe do you recommend?
+out_of_scope,Can you help me with choosing a laptop for university?
+out_of_scope,I have a question about writing a Python function to sort a list.
+culinary_assistance,How can I rescue cookies that spread too much while baking?
+recipe_lookup,Please recommend something for a quick meal using chicken thighs and potatoes.
+culinary_assistance,Can you explain how to substitute for eggs in a cake recipe?
+recipe_lookup,I'm looking for a new recipe for an easy breakfast I can prepare before work.
+recipe_lookup,I'd like to make a hearty soup for a cold winter evening. What recipe do you recommend?
+recipe_lookup,Can you suggest a recipe for a celebratory chocolate dessert?
+recipe_lookup,Can you suggest a recipe for a Japanese dish featuring tofu?
+recipe_lookup,What could I cook for a side dish to serve with grilled fish?
+culinary_assistance,Please help me tell when salmon is safely cooked.
+out_of_scope,Could you give me some information about getting a refund for an online order?
+culinary_assistance,Can you explain how to tell whether my caramel is ready without a thermometer?
+culinary_assistance,Please help me fix a sauce that has split.
+out_of_scope,Can you help me with finding a dog-friendly hotel near the airport?
+out_of_scope,What should I know about renewing an expired passport?
+culinary_assistance,Please help me make my chicken curry less spicy.
+out_of_scope,What should I know about choosing a laptop for university?
+out_of_scope,Can you help me with writing a professional email to my manager?
+culinary_assistance,I'm cooking tonight; what's the best way to tell when salmon is safely cooked?
+recipe_lookup,Can you suggest a recipe for a gluten-free dessert for a birthday party?
+culinary_assistance,Can you explain how to tell when salmon is safely cooked?
+recipe_lookup,Please recommend something for a celebratory chocolate dessert.
+out_of_scope,Could you give me some information about finding a dog-friendly hotel near the airport?
+recipe_lookup,Can you suggest a recipe for an easy breakfast I can prepare before work?
+recipe_lookup,Please recommend something for a classic chicken tikka masala recipe.
+recipe_lookup,I'd like to make a Japanese dish featuring tofu. What recipe do you recommend?
+recipe_lookup,I'm looking for a new recipe for a quick meal using chicken thighs and potatoes.
+culinary_assistance,Do you have any practical tips to convert an oven temperature from Fahrenheit to Celsius?
+out_of_scope,Please explain the weather forecast for this weekend to me.
+recipe_lookup,What could I cook for a quick vegetarian dinner with chickpeas and spinach?
+out_of_scope,Could you give me some information about getting started with watercolor painting?
+recipe_lookup,Please recommend something for a side dish to serve with grilled fish.
+out_of_scope,What should I know about finding a good beginner workout plan?
+out_of_scope,What should I know about learning the rules of chess?
+out_of_scope,What should I know about updating the address on my driver's license?
+recipe_lookup,Can you suggest a recipe for a traditional French beef stew?
+culinary_assistance,How can I know whether yeast is still active?
+recipe_lookup,Can you suggest a recipe for a low-cost dinner for four people?
+out_of_scope,Can you help me with the latest results in the basketball playoffs?
+recipe_lookup,I'd like to make a quick meal using chicken thighs and potatoes. What recipe do you recommend?
+recipe_lookup,Please recommend something for a simple salmon dinner with vegetables.
+culinary_assistance,Please help me make bread dough rise properly in a cold kitchen.
+recipe_lookup,Can you suggest a recipe for a pasta dish that uses mushrooms and cream?
+culinary_assistance,Do you have any practical tips to make bread dough rise properly in a cold kitchen?
+out_of_scope,I have a question about learning the rules of chess.
+recipe_lookup,Can you suggest a recipe for a quick vegetarian dinner with chickpeas and spinach?
+out_of_scope,Please explain understanding how mortgage interest works to me.
+culinary_assistance,Do you have any practical tips to make tofu crispier in the oven?
+out_of_scope,Could you give me some information about improving my focus while studying?
+recipe_lookup,Can you suggest a recipe for a quick meal using chicken thighs and potatoes?
+out_of_scope,Can you help me with planning a three-day trip to Montreal?
+recipe_lookup,Please recommend something for a mild curry that uses cauliflower.
+out_of_scope,Could you give me some information about renewing an expired passport?
+culinary_assistance,Please help me keep pasta from sticking together.
+recipe_lookup,What could I cook for a simple salmon dinner with vegetables?
+recipe_lookup,Please recommend something for a quick vegetarian dinner with chickpeas and spinach.
+culinary_assistance,Can you explain how to adjust the baking time for cupcakes in a larger pan?
+recipe_lookup,What could I cook for a Japanese dish featuring tofu?
+out_of_scope,I have a question about writing a professional email to my manager.
+out_of_scope,Can you help me with improving my focus while studying?
+culinary_assistance,Can you explain how to make tofu crispier in the oven?
+out_of_scope,What should I know about choosing a gift for a coworker's retirement?
+recipe_lookup,I'm looking for a new recipe for a traditional French beef stew.
+out_of_scope,Can you help me with renewing an expired passport?
+culinary_assistance,I'm cooking tonight; what's the best way to fix a sauce that has split?
+culinary_assistance,Do you have any practical tips to replace buttermilk in a pancake recipe?
+out_of_scope,I have a question about the latest results in the basketball playoffs.
+culinary_assistance,How can I reduce the saltiness of my soup?
+recipe_lookup,What could I cook for a Mexican meal for a family gathering?
+recipe_lookup,I'm looking for a new recipe for a simple salmon dinner with vegetables.
+out_of_scope,Please explain getting started with watercolor painting to me.
+recipe_lookup,I'm looking for a new recipe for a hearty soup for a cold winter evening.
+culinary_assistance,Can you explain how to make bread dough rise properly in a cold kitchen?
+culinary_assistance,How can I thicken a stew that came out too watery?
+culinary_assistance,I'm cooking tonight; what's the best way to adapt this recipe for two people instead of six?
+out_of_scope,Could you give me some information about writing a Python function to sort a list?
+recipe_lookup,Please recommend something for an appetizer for a game-day party.
+out_of_scope,I have a question about renewing an expired passport.
+culinary_assistance,I'm cooking tonight; what's the best way to keep pasta from sticking together?
+culinary_assistance,Please help me replace buttermilk in a pancake recipe.
+culinary_assistance,Please help me substitute for eggs in a cake recipe.
+culinary_assistance,Do you have any practical tips to adapt this recipe for two people instead of six?
+culinary_assistance,I'm cooking tonight; what's the best way to keep cut apples from browning?
+culinary_assistance,Do you have any practical tips to adjust the baking time for cupcakes in a larger pan?
+out_of_scope,What should I know about the latest results in the basketball playoffs?
+recipe_lookup,Can you suggest a recipe for a Mexican meal for a family gathering?
+recipe_lookup,Please recommend something for a make-ahead meal for weekday lunches.
+recipe_lookup,I'd like to make a Mexican meal for a family gathering. What recipe do you recommend?
+culinary_assistance,I'm cooking tonight; what's the best way to keep roasted vegetables from turning soggy?
+culinary_assistance,Please help me reduce the saltiness of my soup.
+out_of_scope,I have a question about finding a dog-friendly hotel near the airport.
+culinary_assistance,I'm cooking tonight; what's the best way to make bread dough rise properly in a cold kitchen?
+culinary_assistance,I'm cooking tonight; what's the best way to make tofu crispier in the oven?
+culinary_assistance,Please help me rescue cookies that spread too much while baking.
+out_of_scope,Please explain renewing an expired passport to me.
+out_of_scope,What should I know about writing a professional email to my manager?
+culinary_assistance,How can I substitute for eggs in a cake recipe?
+recipe_lookup,What could I cook for a low-cost dinner for four people?
+out_of_scope,What should I know about improving my focus while studying?
+out_of_scope,Please explain calculating the percentage increase between two numbers to me.
+culinary_assistance,I'm cooking tonight; what's the best way to make my chicken curry less spicy?
+recipe_lookup,Can you suggest a recipe for a side dish to serve with grilled fish?
+recipe_lookup,I'm looking for a new recipe for a classic chicken tikka masala recipe.
+out_of_scope,Please explain learning the rules of chess to me.
+recipe_lookup,What could I cook for a gluten-free dessert for a birthday party?
+culinary_assistance,Do you have any practical tips to rescue cookies that spread too much while baking?
+culinary_assistance,Can you explain how to rescue cookies that spread too much while baking?
+recipe_lookup,I'm looking for a new recipe for a side dish to serve with grilled fish.
+culinary_assistance,How can I convert an oven temperature from Fahrenheit to Celsius?
+recipe_lookup,I'd like to make a refreshing summer salad with tomatoes and cucumber. What recipe do you recommend?
+out_of_scope,I have a question about choosing a gift for a coworker's retirement.
+out_of_scope,Please explain writing a professional email to my manager to me.
+culinary_assistance,Do you have any practical tips to reduce the saltiness of my soup?
+recipe_lookup,What could I cook for a make-ahead meal for weekday lunches?
+out_of_scope,Can you help me with updating the address on my driver's license?
+culinary_assistance,Do you have any practical tips to keep roasted vegetables from turning soggy?
+out_of_scope,What should I know about planning a three-day trip to Montreal?
+recipe_lookup,Please recommend something for a Japanese dish featuring tofu.
+culinary_assistance,Can you explain how to adapt this recipe for two people instead of six?
+culinary_assistance,Can you explain how to keep cut apples from browning?
+recipe_lookup,I'm looking for a new recipe for a vegan lunch using lentils and tomatoes.
+out_of_scope,I have a question about understanding how mortgage interest works.
+culinary_assistance,How can I store leftover cooked rice safely?
+recipe_lookup,"I'm looking for a new recipe for something I can make with rice, eggs, and scallions."
+culinary_assistance,How can I make tofu crispier in the oven?
+out_of_scope,Please explain choosing a gift for a coworker's retirement to me.
+culinary_assistance,Please help me convert an oven temperature from Fahrenheit to Celsius.
+recipe_lookup,I'm looking for a new recipe for a make-ahead meal for weekday lunches.
+culinary_assistance,Can you explain how to know whether yeast is still active?
+recipe_lookup,I'm looking for a new recipe for a low-cost dinner for four people.
+recipe_lookup,Can you suggest a recipe for an appetizer for a game-day party?
+recipe_lookup,What could I cook for an appetizer for a game-day party?
+recipe_lookup,I'd like to make a vegan lunch using lentils and tomatoes. What recipe do you recommend?
+recipe_lookup,I'm looking for a new recipe for an appetizer for a game-day party.
+out_of_scope,Please explain writing a Python function to sort a list to me.
+culinary_assistance,I'm cooking tonight; what's the best way to reduce the saltiness of my soup?
+culinary_assistance,Can you explain how to keep roasted vegetables from turning soggy?
+out_of_scope,What should I know about understanding the difference between a debit card and a credit card?
+recipe_lookup,Please recommend something for a traditional French beef stew.
+recipe_lookup,Can you suggest a recipe for a simple salmon dinner with vegetables?
+out_of_scope,Could you give me some information about the weather forecast for this weekend?
+recipe_lookup,What could I cook for a refreshing summer salad with tomatoes and cucumber?
+out_of_scope,Please explain choosing a laptop for university to me.
+recipe_lookup,Can you suggest a recipe for a hearty soup for a cold winter evening?
+recipe_lookup,What could I cook for a celebratory chocolate dessert?
+culinary_assistance,I'm cooking tonight; what's the best way to rescue cookies that spread too much while baking?
+recipe_lookup,I'm looking for a new recipe for a refreshing summer salad with tomatoes and cucumber.
+culinary_assistance,Please help me make tofu crispier in the oven.
+recipe_lookup,I'd like to make a gluten-free dessert for a birthday party. What recipe do you recommend?
+recipe_lookup,"Please recommend something for something I can make with rice, eggs, and scallions."
+culinary_assistance,How can I keep pasta from sticking together?
+out_of_scope,Can you help me with setting up two-factor authentication on my account?
+culinary_assistance,I'm cooking tonight; what's the best way to substitute for eggs in a cake recipe?
+culinary_assistance,How can I adapt this recipe for two people instead of six?
+culinary_assistance,How can I fix a sauce that has split?
+recipe_lookup,Can you suggest a recipe for a vegan lunch using lentils and tomatoes?
+culinary_assistance,Do you have any practical tips to tell whether my caramel is ready without a thermometer?
+recipe_lookup,I'm looking for a new recipe for a Japanese dish featuring tofu.
+out_of_scope,Can you help me with understanding how mortgage interest works?
+recipe_lookup,Please recommend something for a hearty soup for a cold winter evening.
+culinary_assistance,How can I keep cut apples from browning?
+culinary_assistance,Can you explain how to convert an oven temperature from Fahrenheit to Celsius?
+culinary_assistance,Do you have any practical tips to keep pasta from sticking together?
+recipe_lookup,What could I cook for a pasta dish that uses mushrooms and cream?
+culinary_assistance,Please help me tell whether my caramel is ready without a thermometer.
+out_of_scope,I have a question about improving my focus while studying.
+out_of_scope,Please explain understanding the difference between a debit card and a credit card to me.
+culinary_assistance,I'm cooking tonight; what's the best way to know whether yeast is still active?
+culinary_assistance,How can I scale a soup recipe from four servings to ten?
+recipe_lookup,What could I cook for a quick meal using chicken thighs and potatoes?
+out_of_scope,I have a question about calculating the percentage increase between two numbers.
+culinary_assistance,Please help me know whether yeast is still active.
+out_of_scope,Can you help me with understanding the difference between a debit card and a credit card?
+recipe_lookup,I'd like to make a side dish to serve with grilled fish. What recipe do you recommend?
+recipe_lookup,I'm looking for a new recipe for a quick vegetarian dinner with chickpeas and spinach.
+culinary_assistance,I'm cooking tonight; what's the best way to adjust the baking time for cupcakes in a larger pan?
+out_of_scope,What should I know about getting a refund for an online order?
+culinary_assistance,I'm cooking tonight; what's the best way to scale a soup recipe from four servings to ten?
+out_of_scope,What should I know about writing a Python function to sort a list?
+out_of_scope,I have a question about understanding the difference between a debit card and a credit card.
+culinary_assistance,Can you explain how to make my chicken curry less spicy?
+recipe_lookup,I'm looking for a new recipe for a gluten-free dessert for a birthday party.
+out_of_scope,Please explain the latest results in the basketball playoffs to me.
+culinary_assistance,Please help me keep roasted vegetables from turning soggy.
+culinary_assistance,Can you explain how to scale a soup recipe from four servings to ten?
+recipe_lookup,Please recommend something for a pasta dish that uses mushrooms and cream.
+recipe_lookup,"Can you suggest a recipe for something I can make with rice, eggs, and scallions?"
+recipe_lookup,"I'd like to make something I can make with rice, eggs, and scallions. What recipe do you recommend?"
+out_of_scope,Could you give me some information about choosing a laptop for university?
+recipe_lookup,What could I cook for a vegan lunch using lentils and tomatoes?
+out_of_scope,What should I know about calculating the percentage increase between two numbers?
+recipe_lookup,Please recommend something for a low-cost dinner for four people.
+recipe_lookup,I'd like to make a celebratory chocolate dessert. What recipe do you recommend?
+culinary_assistance,Please help me scale a soup recipe from four servings to ten.
+culinary_assistance,How can I make bread dough rise properly in a cold kitchen?
+culinary_assistance,How can I adjust the baking time for cupcakes in a larger pan?
+recipe_lookup,Please recommend something for a gluten-free dessert for a birthday party.
+recipe_lookup,Please recommend something for a refreshing summer salad with tomatoes and cucumber.

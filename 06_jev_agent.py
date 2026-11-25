@@ -1,3 +1,5 @@
+import json
+
 from typesafe_sdk import Choice, Noul, Score, TypeSafeClient
 from dotenv import load_dotenv
 load_dotenv()
@@ -62,10 +64,10 @@ def run_chat() -> None:
             return
 
         jev_response = get_jev_response(user_input)
-        print(f"is_food: {jev_response.answers["is_food"].noul}")
+        print(f"is_food: yes - {jev_response.answers["is_food"].noul} | no - {(1-jev_response.answers["is_food"].noul):.2f}")
         print(f"cuisine: {jev_response.answers["cuisine"].choice}")
-        print(f"cuisine probability: {jev_response.answers["cuisine"].probabilities}")
-        print(f"sweetness level : {jev_response.answers["sweetness"].score}\n")
+        print(f"cuisine probability: {json.dumps(jev_response.answers["cuisine"].probabilities, indent=2)}")
+        print(f"sweetness level (0 - 4): {jev_response.answers["sweetness"].score}\n")
 
 
 if __name__ == "__main__":
